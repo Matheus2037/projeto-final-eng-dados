@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "projeto-final-eng-dados"
 version = "0.1.0"
-description = ""
+description = "Projeto final de Engenharia de Dados"
 authors = [
-    "Jean Guichard name@email.com",
-    "João Carlos name@email.com",
-    "Lucas Silva name@email.com",
-    "Matheus Daminelli name@email.com",
-    "Matheus Gastaldi name@email.com"
+    "Jean Guichard",
+    "João Carlos",
+    "Lucas Silva",
+    "Matheus Daminelli",
+    "Matheus Gastaldi"
     ]
 readme = "README.md"
 
@@ -15,6 +15,8 @@ readme = "README.md"
 python = "^3.11"
 faker = "^37.3.0"
 pandas = "^2.3.0"
+fastapi = {extras = ["standard"], version = "^0.115.12"}
+uvicorn = {extras = ["standard"], version = "^0.34.3"}
 
 
 [tool.poetry.group.dev.dependencies]
@@ -31,6 +33,10 @@ mkdocstrings = "^0.25.1"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^8.2.0"
+
+[tool.poetry.scripts]
+start = "scripts.runner:start_server"
+seed = "scripts.generate_data:main"
 
 [build-system]
 requires = ["poetry-core"]
