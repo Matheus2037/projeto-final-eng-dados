@@ -1,0 +1,101 @@
+supplier_id,supplier_name,cnpj,contact_email
+1,Fogaça,67.342.189/0001-71,luiz-otaviovargas@example.com
+2,Albuquerque e Filhos,83.457.016/0001-55,cfreitas@example.com
+3,Viana Vasconcelos e Filhos,84.316.509/0001-38,maria-helena56@example.com
+4,Cirino,40.587.136/0001-64,meloemanuel@example.com
+5,Nunes,72.098.563/0001-75,leticiamendes@example.org
+6,Moreira Mendes Ltda.,14.970.263/0001-38,saantonio@example.com
+7,Ferreira,63.140.579/0001-08,smontenegro@example.net
+8,Cunha Nunes - EI,98.073.542/0001-99,fonsecathales@example.net
+9,Araújo,49.653.071/0001-82,jcostela@example.org
+10,Martins Ltda.,57.812.940/0001-00,bmartins@example.com
+11,Borges,10.489.357/0001-39,ana-luiza11@example.com
+12,Sampaio,58.034.971/0001-32,brunocarvalho@example.com
+13,Andrade,15.842.073/0001-06,gustavonovais@example.com
+14,Cunha,68.370.149/0001-04,samuelmachado@example.org
+15,Sousa S.A.,83.479.526/0001-23,brenodias@example.net
+16,Siqueira,72.380.915/0001-80,moraesagatha@example.org
+17,Souza,43.502.789/0001-91,cassianomaria-cecilia@example.org
+18,Monteiro,26.918.047/0001-22,ester68@example.com
+19,Fernandes e Filhos,64.950.871/0001-59,inascimento@example.com
+20,Sampaio e Filhos,89.026.735/0001-06,andradeenrico@example.net
+21,Lopes - ME,76.102.835/0001-14,mendoncamirella@example.org
+22,da Costa - EI,69.478.251/0001-82,wnascimento@example.com
+23,Pereira e Filhos,30.289.541/0001-42,dcosta@example.org
+24,Melo,30.942.178/0001-12,jgomes@example.com
+25,Borges,02.713.964/0001-02,luiza84@example.org
+26,Melo S/A,64.805.973/0001-80,ian48@example.org
+27,da Costa Rezende Ltda.,18.093.274/0001-38,kda-paz@example.com
+28,Moreira Jesus S/A,41.258.396/0001-59,castronicolas@example.org
+29,Sá,63.758.940/0001-64,tfonseca@example.net
+30,Montenegro - ME,49.768.512/0001-91,almeidamilena@example.net
+31,Fonseca,64.195.287/0001-35,davi-lucas48@example.com
+32,Jesus,38.149.206/0001-50,maria-julia36@example.org
+33,da Costa,72.830.154/0001-11,ana-vitoria91@example.org
+34,Rezende,05.163.284/0001-50,davi07@example.org
+35,Moura,35.026.418/0001-52,esthergomes@example.com
+36,Castro,68.915.204/0001-96,ravi-lucca29@example.net
+37,Duarte - ME,86.201.937/0001-40,ymendes@example.com
+38,Câmara,03.254.781/0001-39,julia96@example.org
+39,Moura Dias S.A.,52.690.431/0001-20,pnogueira@example.com
+40,Andrade,45.071.832/0001-37,nda-costa@example.net
+41,da Conceição,87.521.063/0001-71,pauloalves@example.net
+42,Albuquerque - EI,48.621.537/0001-03,yrodrigues@example.net
+43,da Mota,65.309.428/0001-66,siqueiraliz@example.net
+44,Fonseca - ME,12.948.563/0001-95,gael59@example.org
+45,Moura S/A,02.183.697/0001-09,alexandre08@example.com
+46,Marques,25.634.798/0001-54,matteoazevedo@example.net
+47,Macedo Mendonça S/A,92.635.470/0001-40,jalves@example.org
+48,Rezende,79.238.564/0001-17,da-costarenan@example.org
+49,Caldeira,13.528.769/0001-29,das-nevesluiz-gustavo@example.com
+50,Sampaio,50.346.892/0001-55,xsousa@example.com
+51,da Luz Ltda.,10.756.928/0001-54,ceciliamacedo@example.com
+52,Cardoso Gomes S/A,60.318.259/0001-07,barrosasafe@example.org
+53,da Cunha Pires - ME,93.864.125/0001-40,vferreira@example.org
+54,Almeida S/A,20.453.716/0001-51,pgoncalves@example.net
+55,Macedo,14.795.238/0001-65,lucasribeiro@example.com
+56,Ramos Castro - EI,79.358.106/0001-11,maria-juliaabreu@example.com
+57,da Rocha,49.528.670/0001-74,lizbarbosa@example.com
+58,Peixoto S/A,39.562.081/0001-59,maria-eduardamartins@example.com
+59,Fernandes Garcia e Filhos,75.319.804/0001-57,caue64@example.net
+60,Dias,02.368.751/0001-90,wdias@example.net
+61,Leão,79.105.843/0001-02,nmonteiro@example.org
+62,da Mata,93.584.762/0001-63,kamillyferreira@example.net
+63,Moreira,39.028.547/0001-30,zfreitas@example.com
+64,Melo Santos S/A,50.639.487/0001-25,vfogaca@example.org
+65,Pinto,93.481.750/0001-03,marcos-viniciusda-paz@example.com
+66,Duarte Guerra Ltda.,09.768.342/0001-20,raquel14@example.com
+67,das Neves,52.987.640/0001-30,henry-gabriel69@example.net
+68,Ferreira,82.401.793/0001-15,novaislevi@example.org
+69,Ferreira - EI,89.051.627/0001-85,hda-rosa@example.com
+70,Pacheco,21.904.736/0001-64,clariceandrade@example.com
+71,Leão - EI,35.780.264/0001-90,fsantos@example.com
+72,Araújo Pastor Ltda.,02.487.915/0001-07,brendavieira@example.com
+73,Cirino S/A,50.831.692/0001-98,silvavinicius@example.net
+74,Macedo S/A,56.137.984/0001-01,fonsecacatarina@example.com
+75,Marques da Conceição - EI,63.107.285/0001-84,anthonybrito@example.com
+76,Cunha Pinto e Filhos,92.510.863/0001-27,caldeiracecilia@example.com
+77,Pereira Ltda.,27.410.639/0001-00,uvieira@example.com
+78,Garcia,27.309.548/0001-74,samarcelo@example.com
+79,Cavalcanti Ltda.,61.047.258/0001-38,arthur-gabrielmoura@example.org
+80,Barros,98.073.526/0001-04,salesgabriela@example.org
+81,Pimenta e Filhos,81.032.594/0001-14,manuela32@example.com
+82,Gonçalves,90.675.213/0001-06,lorenzo73@example.com
+83,Lima,38.971.462/0001-29,emacedo@example.com
+84,Duarte e Filhos,54.786.912/0001-60,lcampos@example.net
+85,Sousa S/A,08.561.497/0001-29,joao-lucas03@example.org
+86,Novais S.A.,93.851.274/0001-75,luiza64@example.net
+87,da Conceição S.A.,10.537.486/0001-55,alexialopes@example.com
+88,Pires - EI,21.750.489/0001-99,fbarbosa@example.org
+89,Leão das Neves e Filhos,53.649.712/0001-00,kazevedo@example.org
+90,Mendes da Rosa e Filhos,30.524.976/0001-24,beniciodas-neves@example.org
+91,Martins - EI,69.327.518/0001-30,mariah58@example.com
+92,Pimenta,54.270.139/0001-84,cda-costa@example.com
+93,da Cunha,59.387.216/0001-02,sousaraul@example.net
+94,Brito,80.317.925/0001-08,cmarques@example.org
+95,Aragão,51.637.240/0001-32,camposenzo@example.net
+96,Almeida,36.419.025/0001-71,souzamaria-clara@example.net
+97,Vargas,94.807.261/0001-61,mendeslunna@example.org
+98,Vargas Rodrigues e Filhos,97.052.384/0001-28,da-matabenicio@example.org
+99,Pires,39.510.642/0001-76,paulobarros@example.org
+100,Novaes,93.526.718/0001-05,kcardoso@example.com
