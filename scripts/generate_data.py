@@ -4,8 +4,54 @@ import random
 from datetime import datetime, timedelta
 import os
 
+"""
+Módulo para geração de dados sintéticos para e-commerce.
+
+Este módulo utiliza a biblioteca Faker para criar dados fictícios realistas
+de um sistema de e-commerce, incluindo clientes, produtos, pedidos, pagamentos
+e outras entidades relacionadas. Os dados são salvos em formato CSV para
+posterior uso em análises e desenvolvimento.
+"""
+
 def generate_data():
+    """
+    Gera dados sintéticos completos para um sistema de e-commerce.
     
+    Esta função cria aproximadamente 20.000 registros distribuídos entre
+    diferentes entidades de um e-commerce típico, incluindo:
+    - Categorias de produtos (8 categorias)
+    - Fornecedores (100 empresas)
+    - Clientes (20.000 pessoas)
+    - Produtos (20.000 itens)
+    - Endereços (20.000 endereços)
+    - Pedidos (20.000 pedidos)
+    - Itens de pedidos (variável, 1-5 itens por pedido)
+    - Pagamentos (20.000 transações)
+    - Avaliações (20.000 reviews)
+    - Promoções (50 códigos promocionais)
+    
+    Os dados são gerados usando a biblioteca Faker configurada para
+    localização brasileira (pt_BR), garantindo dados realistas como
+    CNPJs, CPFs, nomes brasileiros, etc.
+    
+    Raises:
+        OSError: Se não for possível criar o diretório de saída
+        
+    Returns:
+        None
+        
+    Example:
+        >>> generate_data()
+        Iniciando geração de dados...
+        Gerando Categorias...
+        ...
+        🚀 Geração de dados concluída com sucesso!
+        
+    Note:
+        Os arquivos CSV são salvos no diretório 'data/generated_data/'
+        que será criado automaticamente se não existir.
+    """
+
     # --- Configurações ---
     NUM_RECORDS = 20000
     OUTPUT_DIR = "data/generated_data"
