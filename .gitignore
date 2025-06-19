@@ -13,6 +13,7 @@ __pycache__/
 #MKDocs
 site/
 
+.terraform/
 
 # Distribution / packaging
 .Python
