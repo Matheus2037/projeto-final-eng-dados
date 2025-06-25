@@ -8,7 +8,17 @@ Repositório para desenvolvimento do projeto final da disciplina de Engenharia d
 
 ## Desenho de Arquitetura
 
-![image](https://github.com/jlsilva01/projeto-ed-satc/assets/484662/541de6ab-03fa-49b3-a29f-dec8857360c1)
+![Desenho de Arquitetura](assets/Desenho%20Arquitetura.png)
+
+## Modelagem do Banco de Dados
+
+### OLTP (Operacional)
+
+![Modelagem do Banco de Dados](assets/Diagrama%20Sugar%20e-Commerce%20OLTP.png)
+
+### OLAP (Data Warehouse)
+
+![Modelagem do Banco de Dados](assets/Diagrama%20Sugar%20e-Commerce%20OLAP.png)
 
 ## Pré-requisitos e ferramentas utilizadas
 
@@ -46,8 +56,9 @@ poetry run uvicorn app.main:app --reload
 ```
 
 Acesse a API em `http://localhost:8000` e a documentação automática em:
+
 - Swagger UI: `http://localhost:8000/docs`
-- ReDoc:       `http://localhost:8000/redoc`
+- ReDoc: `http://localhost:8000/redoc`
 
 ## Documentação (MkDocs)
 
@@ -68,14 +79,15 @@ poetry run mkdocs gh-deploy
 
 ## Colaboração
 
-1. Abra uma **issue** para discutir sua feature ou bug.  
-2. Crie um **branch**:  
+1. Abra uma **issue** para discutir sua feature ou bug.
+2. Crie um **branch**:
 
    ```bash
    git checkout -b feature/nome-da-sua-feature
    ```
-3. Faça suas alterações e **commit** seguindo o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).  
-4. Envie um **pull request** para `main`.  
+
+3. Faça suas alterações e **commit** seguindo o [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
+4. Envie um **pull request** para `main`.
 5. Aguarde revisão e merge.
 
 ## Versão
@@ -84,15 +96,15 @@ Fale sobre a versão e o controle de versões para o projeto.
 
 ## Autores
 
-* **Jean Guichard** - [(https://github.com/Guichardx2)](https://github.com/Guichardx2)
-* **João Carlos** - [https://github.com/Churima](https://github.com/Churima)
-* **Lucas Silva** - [https://github.com/Lorrust](https://github.com/Lorrust)
-* **Matheus Daminelli** - [https://github.com/daminellis](https://github.com/daminellis)
-* **Matheus Gastaldi** - [https://github.com/Matheus2037](https://github.com/Matheus2037)
+- **Jean Guichard** - [https://github.com/Guichardx2](https://github.com/Guichardx2)
+- **João Carlos** - [https://github.com/Churima](https://github.com/Churima)
+- **Lucas Silva** - [https://github.com/Lorrust](https://github.com/Lorrust)
+- **Matheus Daminelli** - [https://github.com/daminellis](https://github.com/daminellis)
+- **Matheus Gastaldi** - [https://github.com/Matheus2037](https://github.com/Matheus2037)
 
 ## Licença
 
-Este projeto está sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Matheus2037/projeto-final-eng-dados/blob/main/LICENSE) para detalhes.   
+Este projeto está sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/Matheus2037/projeto-final-eng-dados/blob/main/LICENSE) para detalhes.
 
 ## Referências
 
